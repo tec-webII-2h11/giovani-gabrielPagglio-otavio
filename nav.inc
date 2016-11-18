@@ -1,13 +1,13 @@
         <nav id="nav">
             <ul>
-                <li><a href="login.html">Login</a></li>
-                <li><a href="index.html">Página Inicial</a></li>
-                <li><a href="sobre.html">Sobre</a></li>
-                <li><a href="sb.html">SuperBowl</a></li>
-                <li><a href="hall.html">Hall da Fama</a></li>
-                <li><a href="videos.html">Vídeos</a></li>
-                <li><a href="times.html">Times</a></li>
-                <li><a href="placares.html">Placares</a></li>
+                <li><a href="index.php">Login</a></li>
+                <li><a href="home.php">Pagina Inicial</a></li>
+                <li><a href="sobre.php">Sobre</a></li>
+                <li><a href="sb.php">SuperBowl</a></li>
+                <li><a href="hall.php">Hall da Fama</a></li>
+                <li><a href="videos.php">Videos</a></li>
+                <li><a href="times.php">Times</a></li>
+                <li><a href="placares.php">Placares</a></li>
                 <li><a href="null"></a></li>
             </ul>
         </nav>
